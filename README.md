@@ -1,5 +1,5 @@
 # Simplex
-A simpler way to Flux
+A simpler way to Flux.
 
 ## What is Flux
 
@@ -29,7 +29,6 @@ Creating an action means creating a simple class that extends the `Action` inter
   }
   
   // Usage
-  
   const todo = {
     id: 1,
     task: 'Do some coding',
