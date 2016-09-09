@@ -44,7 +44,7 @@ Creating a store means creating a class that extends the `Store` interface. The 
 
 ```javascript
   @Store
-  class TodoStore implements {
+  class TodoStore {
     
     private _initialState = [];
     
